@@ -16,6 +16,7 @@ body {
 /* headings and logo */
 
 h1,h2 {
+
     font-family: Rubik sans-serif;
     letter-spacing: 4px;
     color: #252525;
@@ -95,7 +96,7 @@ h1,h2 {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
+    
 }
 
  hr {
@@ -129,4 +130,32 @@ h1,h2 {
 
 .right-about-heading p {
     text-align: right;
+}
+
+
+#info {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: grey 0 0 10px;
+
+}
+
+#circle-cover-bg {
+    background: url(../css/images/center-award-pic.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    
 }
