@@ -160,6 +160,10 @@ h1,h2 {
     
 }
 
+
+
+/* Link to a contact page */
+
 .call-to-contact {
     text-align: center;
     width: 150px;
@@ -200,6 +204,43 @@ h1,h2 {
 
 
 }
+
+
+/* Picture Section*/
+
+.features  {
+    background: white;
+    color: grey;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.features figure {
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+    width: 300px;
+
+}
+
+.features figure img {
+        border: 1px solid white;  
+        border-radius: 50%;
+        box-shadow: grey 0 0 10px;   
+        width: 300px;
+
+}
+
+
+
+
+
+
+
+
 
 /* footer */
 
