@@ -15,7 +15,8 @@ body {
 
 /* headings and logo */
 
-h1,h2 {
+h1,
+h2 {
 
     font-family: Rubik sans-serif;
     letter-spacing: 4px;
@@ -37,7 +38,8 @@ h1,h2 {
     letter-spacing: 4px;
 }
 
-#menu,#logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -81,7 +83,7 @@ h1,h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
-    
+
 
 }
 
@@ -89,21 +91,21 @@ h1,h2 {
     padding-top: 30px;
     width: 33%;
     float: right;
-    
+
 
 }
 
 #center-about {
     width: 33%;
     margin: 0 auto;
-    
+
 }
 
- hr {
-     border-top: 1px solid #3a3a3a;
-     width: 100%;
-     margin: 5px;
- }
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px;
+}
 
 
 
@@ -157,7 +159,7 @@ h1,h2 {
     background: url(../css/images/center-award-pic.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
-    
+
 }
 
 
@@ -168,8 +170,8 @@ h1,h2 {
     text-align: center;
     width: 150px;
     height: 35px;
-    
-    
+
+
     background-color: white;
     justify-content: center;
     margin-top: 100px;
@@ -178,10 +180,10 @@ h1,h2 {
 }
 
 
-.call-to-contact:hover{
+.call-to-contact:hover {
     background-color: #252525;
     color: red;
-     
+
 }
 
 
@@ -208,7 +210,7 @@ h1,h2 {
 
 /* Picture Section*/
 
-.features  {
+.features {
     background: white;
     color: grey;
     padding: 20px;
@@ -227,19 +229,12 @@ h1,h2 {
 }
 
 .features figure img {
-        border: 1px solid white;  
-        border-radius: 50%;
-        box-shadow: grey 0 0 10px;   
-        width: 300px;
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: grey 0 0 10px;
+    width: 300px;
 
 }
-
-
-
-
-
-
-
 
 
 /* footer */
@@ -254,7 +249,7 @@ footer {
 
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
