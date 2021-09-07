@@ -435,61 +435,52 @@ footer {
         padding: 0 20px;
 
     }
+
     .call-to-contact {
-        
+
         justify-content: unset;
         margin-left: 0;
     }
+
     .call-to-contact a {
         position: relative;
         left: 30vw;
         bottom: 60%;
     }
+
     .gallery-head {
         text-align: center;
         font-size: 20px;
         text-transform: uppercase;
         margin: 30px 30px;
     }
-    
-    
+
+
     .feature-box {
         background: white;
         color: grey;
         padding: 20px;
         display: flex;
         flex-direction: column;
-    
-    
+
+
     }
-    
+
     .feature-box figure {
         margin: auto;
         width: 200px;
         text-align: center;
         text-transform: uppercase;
-    
+
     }
-    
+
     .feature-box figure img {
         border: 1px solid white;
         border-radius: 50%;
         box-shadow: #3a3a3a 0 0 10px;
         width: 200px;
-    
-    
+
+
     }
-    
+
 }
-
-   
-    
-
-
-   
-
-
-
-
-
-
