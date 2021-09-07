@@ -400,12 +400,12 @@ footer {
 
 }
 
-/* for medium screen sizes from 950px wide and down*/
+/* for medium screen sizes from 900px wide and down*/
 @media screen and (max-width: 900px) {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 5%;
         margin-bottom: 20px;
         line-height: 25px;
 
@@ -436,7 +436,7 @@ footer {
 
     }
     .call-to-contact {
-        width: auto;
+        
         justify-content: unset;
         margin-left: 0;
     }
@@ -445,5 +445,51 @@ footer {
         left: 30vw;
         bottom: 60%;
     }
-
+    .gallery-head {
+        text-align: center;
+        font-size: 20px;
+        text-transform: uppercase;
+        margin: 30px 30px;
+    }
+    
+    
+    .feature-box {
+        background: white;
+        color: grey;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+    
+    
+    }
+    
+    .feature-box figure {
+        margin: auto;
+        width: 200px;
+        text-align: center;
+        text-transform: uppercase;
+    
+    }
+    
+    .feature-box figure img {
+        border: 1px solid white;
+        border-radius: 50%;
+        box-shadow: #3a3a3a 0 0 10px;
+        width: 200px;
+    
+    
+    }
+    
 }
+
+   
+    
+
+
+   
+
+
+
+
+
+
