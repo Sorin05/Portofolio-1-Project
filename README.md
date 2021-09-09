@@ -1,9 +1,9 @@
 # Artisan Bakery
-
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/assets/css/docs/amiresponsive.PNG?raw=true)
 ## About
 
 * A website for an award winning artisan bakery with luxury home made breads and pastry and delivery service . The website features a variety of surdough breads and pastries and an contact form for deliveries or wholesale bread to other bussiness. The goal of the website is to promote the bussiness and expand it while adding more products and to build a regular customer base not only individuals but small bussiness too.
-
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/assets/css/docs/landing-video.PNG?raw=true)
 ### Features
 - __Navigation Bar__
 
@@ -34,6 +34,7 @@
   - This page will allow the user to email the bakery for an order. The user will be able specify what type of product they are looking for , surdough bread, pastry or both. The user will be asked to submit their full name and email address. 
 ## Testing 
 
-
+## Wireframes
+[Wireframes used here](/assets/css/wireframes)
 
 
