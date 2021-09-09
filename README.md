@@ -22,10 +22,18 @@
 
   - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Rtisan Bakery. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Artisan Bakery. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to contact the bussiness thru social media also.
 
 - __Gallery__
 
   - The gallery will provide the user with more images to see what the artisan bakery can offer. 
-  - This section is valuable to the user as they will be able to easily identify the products they want and need. 
+  - This section is valuable to the user as they will be able to easily identify the products and the prices of a few products. 
+- __The Contact Us Page__
+
+  - This page will allow the user to email the bakery for an order. The user will be able specify what type of product they are looking for , surdough bread, pastry or both. The user will be asked to submit their full name and email address. 
+## Testing 
+
+
+
+
