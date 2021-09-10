@@ -98,3 +98,14 @@ Testing was manually completed through the use of Googles Chrome browser and Fir
     Code credit to the "Love Running" project and great explained lessons.
     Credit to LearnCode.academy on youtube for the idea of the website and some css code 
     Credit to strudelbakery.com website for inspiration too
+
+   ### Content 
+
+- The text for the Home page was taken from strudelbakery.com 
+- Instructions on how to implement form validation on the Contact Us page was taken from Code institute Challenge
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The photos used on the home and sign up page are from This Open Source site
+- The images used for the gallery page were taken from this other open source site
