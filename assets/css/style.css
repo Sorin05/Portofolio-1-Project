@@ -219,6 +219,12 @@ hr {
 
 }
 
+figcaption {
+    padding: 20px 0;
+
+}
+
+
 /* footer */
 
 footer {
@@ -239,13 +245,15 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
-.copyright  {
+
+.copyright {
     background: black;
     color: grey;
     font-size: 12px;
     padding: 20px 20px;
     text-align: center;
-} 
+}
+
 .address {
     background: black;
     color: grey;
@@ -472,6 +480,7 @@ footer {
         box-shadow: #3a3a3a 0 0 10px;
         width: 200px;
     }
+
     .form-section {
         padding: 0 30px;
     }

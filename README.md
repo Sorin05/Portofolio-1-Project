@@ -95,17 +95,17 @@ Testing was manually completed through the use of Googles Chrome browser and Fir
 
  ## Credits
 
-    Code credit to the "Love Running" project and great explained lessons.
-    Credit to LearnCode.academy on youtube for the idea of the website and some css code 
-    Credit to strudelbakery.com website for inspiration too
+   - Code credit to the "Love Running" project and great explained lessons.
+   - Credit to LearnCode.academy on youtube for the idea of the website and some css code 
+   - Credit to [https://strudelbakery.com] website for inspiration too
 
    ### Content 
 
-- The text for the Home page was taken from strudelbakery.com 
+- The text for the Home page was taken from [https://strudelbakery.com] 
 - Instructions on how to implement form validation on the Contact Us page was taken from Code institute Challenge
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
 * Pictures and videos are from [Pexels](https://www.pexels.com/)
-* The award winning badge is from 
+
