@@ -81,7 +81,7 @@ Testing was manually completed through the use of Googles Chrome browser and Fir
 * CSS has been used to add styles and animations to the site making the website. 
 
 ## Deployment
-
+* This site can be found here: [Artisan Bakery](https://sorin05.github.io/Portofolio-1-Project/index.html)
 ### Project Creation
 
 * I developed and deployed the Website using Github abd Gitpod as my code editor using the below steps:
