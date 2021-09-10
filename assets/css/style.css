@@ -472,4 +472,7 @@ footer {
         box-shadow: #3a3a3a 0 0 10px;
         width: 200px;
     }
+    .form-section {
+        padding: 0 30px;
+    }
 }
