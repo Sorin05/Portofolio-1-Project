@@ -48,8 +48,24 @@
   ![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/contact-us-page.PNG?raw=true)
   
 ## Testing 
+Testing was manually completed through the use of Googles Chrome browser and Firefox browser in conjunction with their development tools accessed through their website.
+
+## Lighthouse Testing
+
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/lighthouse-testing.PNG?raw=true)
+
+## W3C- HTML validator
+
+
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/html-testing.PNG?raw=true)
+
+## W3C - CSS Validator
+
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/css-testing.PNG?raw=true)
 
 ## Wireframes
-[Wireframes used here](/assets/css/wireframes)
 
-
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/page1.PNG?raw=true)
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/page2.PNG?raw=true)
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/page3.PNG?raw=true)
+![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/wireframe.PNG?raw=true)
