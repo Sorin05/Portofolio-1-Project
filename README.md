@@ -69,3 +69,32 @@ Testing was manually completed through the use of Googles Chrome browser and Fir
 ![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/page2.PNG?raw=true)
 ![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/page3.PNG?raw=true)
 ![alt text](https://github.com/Sorin05/Portofolio-1-Project/blob/main/docs/wireframe.PNG?raw=true)
+
+## Technology Used In Design
+
+### HTML
+
+* HTML5 semantic code is used in all of the website pages. There are clearly defined areas such as main, sections, headers and footers as well as list items and tables.
+
+### CSS
+
+* CSS has been used to add styles and animations to the site making the website. 
+
+## Deployment
+
+### Project Creation
+
+* I developed and deployed the Website using Github abd Gitpod as my code editor using the below steps:
+1. Create your account using your email.
+1. Create a new repository.
+1. Click the Gitpod button to start the code editor.
+1. Once the code was written use the below commands:
+    * git add . .
+    * git commit -m "Your message here"
+    * git push 
+
+ ## Credits
+
+    Code credit to the "Love Running" project and great explained lessons.
+    Credit to LearnCode.academy on youtube for the idea of the website and some css code 
+    Credit to strudelbakery.com website for inspiration too
